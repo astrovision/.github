@@ -1,6 +1,18 @@
 ![Alt text](astrovision-logo.png?raw=true)
 
-## Hi there 👋
+### Official repository for *AstroVision: Towards Autonomous Feature Detection and Description for Missions to Small Bodies Using Deep Learning*
+
+The preprint of the manuscript is available on arXiv [here](https://arxiv.org/abs/2208.02053). The dataset and benchmarks will be released upon publication.
+
+```
+@article{driver2022astrovision,
+  title={AstroVision: Towards Autonomous Feature Detection and Description for Missions to Small Bodies Using Deep Learning},
+  author={Driver, Travis and Skinner, Katherine and Dor, Mehregan and Tsiotras, Panagiotis},
+  journal={preprint},
+  note={arXiv:2208.02053},
+  year={2022}
+}
+```
 
 <!--
 
