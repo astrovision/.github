@@ -1,4 +1,4 @@
-![Alt text](astrovision-logo.png?raw=true)
+![Alt text](https://github.com/astrovision/.github/blob/main/profile/astrovision-logo.png?raw=true)
 
 ### Official repository for *AstroVision: Towards Autonomous Feature Detection and Description for Missions to Small Bodies Using Deep Learning*
 
