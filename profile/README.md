@@ -2,25 +2,15 @@
 
 ### Official repository for *AstroVision: Towards Autonomous Feature Detection and Description for Missions to Small Bodies Using Deep Learning*
 
-The preprint of the manuscript is available on arXiv [here](https://arxiv.org/abs/2208.02053). The dataset and benchmarks will be released upon publication.
+If you find our datasets or benchmarks useful for your research, please cite the [AstroVision paper](https://www.sciencedirect.com/science/article/pii/S0094576523000103):
 
-```
-@article{driver2022astrovision,
-  title={AstroVision: Towards Autonomous Feature Detection and Description for Missions to Small Bodies Using Deep Learning},
+```bibtex
+@article{driver2023astrovision,
+  title={{AstroVision}: Towards Autonomous Feature Detection and Description for Missions to Small Bodies Using Deep Learning},
   author={Driver, Travis and Skinner, Katherine and Dor, Mehregan and Tsiotras, Panagiotis},
-  journal={preprint},
-  note={arXiv:2208.02053},
-  year={2022}
+  journal={Acta Astronautica: Special Issue on AI for Space},
+  year={2023},
+  volume={210},
+  pages={393--410}
 }
 ```
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
